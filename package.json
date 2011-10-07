@@ -1,0 +1,17 @@
+{   "name": "rikki"
+  , "description": "Automated RESTful services based on your Mongoose models"
+  , "version": "0.0.1"
+  , "author": "Paul Vencill <paul@cyberstride.net>"
+  , "dependencies": {
+      "mongoose":"2.3.x",
+      "inflector":"0.0.1"
+  }
+  , "devDependencies": {
+      "connect": "1.4.x"
+    , "express": "2.4.x"
+  }
+  , "keywords": ["express", "rest", "mongodb","mongoose", "resource"]
+  , "main": "index"
+  , "engines": { "node": ">= 0.4.7" }
+}
+
